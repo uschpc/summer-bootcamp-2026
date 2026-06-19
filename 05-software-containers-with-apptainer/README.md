@@ -1,3 +1,5 @@
 # Software Containers with Apptainer
 
-Add workshop materials for this session here.
+Workshop materials are available in the following repo:
+
+https://github.com/uschpc/workshop-apptainer
