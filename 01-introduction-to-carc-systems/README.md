@@ -1,3 +1,3 @@
 # Introduction to CARC Systems
 
-Add workshop materials for this session here.
+This workshop talks about introduction to CARC systems. 
