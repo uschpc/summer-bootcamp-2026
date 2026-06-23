@@ -1,3 +1,5 @@
 # Installing and Using Software on CARC Clusters
 
-Add workshop materials for this session here.
+Up to date workshop slides will be available at 
+
+https://github.com/uschpc/workshop-software
