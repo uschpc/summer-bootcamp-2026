@@ -1,3 +1,3 @@
-# Introduction to the Linux Command Line
+# Introduction to HPC and Linux Command Line
 
-Add workshop materials for this session here.
+Please see the PDF presentation HPC-and-Linux.pdf.
