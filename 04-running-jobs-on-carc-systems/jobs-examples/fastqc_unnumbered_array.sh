@@ -5,7 +5,7 @@
 #SBATCH --time=00:05:00
 #SBATCH --array=1-6
 #SBATCH --account=ttrojan_001
-#SBATCH --chdir /home1/${USER}/running-jobs-on-CARC-systems
+#SBATCH --chdir /home1/${USER}/summer-bootcamp-2026/04-running-jobs-on-carc-systems
 
 module purge
 module load usc

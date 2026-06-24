@@ -60,7 +60,7 @@ Once in the terminal, clone this GitHub Repository
 
 ```
 module load usc git
-git clone https://github.com/uschpc/running-jobs-on-CARC-systems.git
+git clone https://github.com/uschpc/summer-bootcamp-2026.git
 ```
 
 In Jupyter, navigate to the example you are interested in, and step through the notebook. 
